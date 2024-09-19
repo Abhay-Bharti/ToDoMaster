@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://to-do-master-j43u.vercel.app/';
+export const BASE_URL = 'https://to-do-master.vercel.app/';
