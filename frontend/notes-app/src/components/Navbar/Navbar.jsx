@@ -10,7 +10,7 @@ export default function Navbar({ userInfo }) {
 
     const onLogout = () => {
         localStorage.clear();
-        navigate("/login");
+        navigate("/");
     }
 
     const handleSearch = () => {
